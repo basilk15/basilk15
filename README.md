@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
 <h3 align="center">A passionate front end developer and student of computer engineering at Habib university.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cio.com/wp-content/uploads/2023/05/shutterstock_547592083-100758239-orig.jpg?quality=50&strip=all">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/hacker-cyber-security-with-computer-hacking-attackhacker-cyber-security-with-computer-ha_912214-17424.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat" alt="basilk15" /> </p>
 

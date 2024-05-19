@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React and Node.js**
 
-- 📝 I am interested in [front end development and doing research on power systems](front end development and doing research on power systems)
+- 📝 I am interested in front end development and doing research on power systems
 
 - 📫 How to reach me **basilkhowaja123@gmail.com**
 

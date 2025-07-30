@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
-<h3 align="center">A cybersecurity freak, passionate front end developer, and student of computer engineering at Habib university.</h3>
+<h3 align="center">A cybersecurity freak, passionate Penetration Tester, and student of computer engineering at Habib university.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/hacker-cyber-security-with-computer-hacking-attackhacker-cyber-security-with-computer-ha_912214-17424.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat" alt="basilk15" /> </p>
 
-- 🔭 I’m currently working on **cybersecurity and web development**
+- 🔭 I’m currently working on **cybersecurity and Pentesting**
 
-- 🌱 I’m currently learning **linux programming, and Node.js**
+- 🌱 I’m currently learning **Web Application Pentesting**
 
-- 📝 I am interested in front end development, doing research on power systems and in pursuing cybersecurity methods.
+- 📝 I am interested in Breaching the Networks, Active directories and performing Red Teaming Jobs.
 
 - 📫 How to reach me **basilkhowaja123@gmail.com**
 

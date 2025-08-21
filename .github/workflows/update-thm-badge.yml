@@ -20,6 +20,6 @@ jobs:
           username: 'bas1lk15'               # your TryHackMe username
           user_id: '3945051'                 # your TryHackMe user ID
           committer_username: 'basilk15'     # your GitHub username
-          committer_email: 'bk08432@st.habib.edu.pk' # replace with your GitHub email
+          committer_email: 'basilk15@users.noreply.github.com' # replace with your GitHub email
           commit_message: 'Updated THM profile badge'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

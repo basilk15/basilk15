@@ -26,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilk15&show_icons=true&locale=en" alt="basilk15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilk15&" alt="basilk15" /></p>
+
+<h3 align="left">TryHackMe Profile:</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/3945051" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/3945051.png" alt="TryHackMe Profile" />
+  </a>
+</p>

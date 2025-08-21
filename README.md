@@ -27,9 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilk15&" alt="basilk15" /></p>
 
-<h3 align="left">TryHackMe Profile:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/bas1lk15" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/bas1lk15.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3945051" 
+            width="400" 
+            height="300" 
+            style="border:none;">
+</iframe>

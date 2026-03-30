@@ -19,5 +19,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/basil-khowaja-073b9825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-khowaja-073b9825b" height="30" width="40" /></a>
 <a href="https://instagram.com/bas1l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bas1l_k" height="30" width="40" /></a>
-<a href="mailto:basilkhowaja123@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="basilkhowaja123@gmail.com" height="30" width="40" /></a>
+<a href="mailto:basilkhowaja123@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="basilkhowaja123@gmail.com" height="30" width="40" /></a>
 </p>

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
 <h3 align="center">A cybersecurity freak, passionate Penetration Tester, and student of computer engineering at Habib university.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/hacker-cyber-security-with-computer-hacking-attackhacker-cyber-security-with-computer-ha_912214-17424.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat" alt="basilk15" /> </p>
 
 - 🔭 I’m currently working on **cybersecurity and Pentesting**
@@ -33,7 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilk15&show_icons=true&locale=en" alt="basilk15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilk15&" alt="basilk15" /></p>
-
 
 
 

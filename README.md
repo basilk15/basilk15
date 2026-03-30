@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on my **final year project, [ASPID IoT](https://aspid-iot.vercel.app/)**.
 
+- 🚀 Featured project: **[Infratic](https://github.com/basilk15/infratic)**.
+
 - 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 
 - 📝 I am interested in Breaching the Networks, Active directories and performing Red Teaming Jobs.

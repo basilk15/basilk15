@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **final year project, [ASPID IoT](https://aspid-iot.vercel.app/)**.
 
-- 🌱 I’m currently learning **Web Application Pentesting**
+- 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 
 - 📝 I am interested in Breaching the Networks, Active directories and performing Red Teaming Jobs.
 
@@ -31,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilk15&show_icons=true&locale=en" alt="basilk15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilk15&" alt="basilk15" /></p>
-
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil</h1>
-<h3 align="center">A Software Engineer with cirsp of Cybersecurity and Cloud technologies .</h3>
+<h3 align="center">A Software Engineer with passion for Cybersecurity and Cloud technologies .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat" alt="basilk15" /> </p>
 
 - 🔭 I’m currently working on my **final year project, [ASPID IoT](https://aspid-iot.vercel.app/)**.

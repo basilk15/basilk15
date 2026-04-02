@@ -6,6 +6,12 @@
 
 - 🚀 Featured project: **[Infratic](https://github.com/basilk15/infratic)**.
 
+<h3 align="left">Projects</h3>
+
+- [Infratic](https://github.com/basilk15/infratic)
+- [Wpify](https://github.com/basilk15/Wpify)
+- [awsome](https://github.com/basilk15/awsome)
+
 - 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 
 - 📝 I am interested in Breaching the Networks, Active directories and performing Red Teaming Jobs.

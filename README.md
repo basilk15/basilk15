@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 
-- 📝 I am interested in Breaching the Networks, Active directories and performing Red Teaming Jobs.
+- 📝 I am interested in turning raw ideas into Softwares and Breaching the Networks.
 
 - 📫 How to reach me **basilkhowaja123@gmail.com**
 

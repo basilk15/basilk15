@@ -11,6 +11,7 @@
 - [Infratic](https://github.com/basilk15/infratic)
 - [Wpify](https://github.com/basilk15/Wpify)
 - [awsome](https://github.com/basilk15/awsome)
+- [Quicon](https://github.com/basilk15/quicon)
 
 - 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 

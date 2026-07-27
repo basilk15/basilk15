@@ -14,20 +14,9 @@
 
 <br />
 
-```text
-╭─ ● ● ● ── basil@github:~ ─────────────────────────────────────╮
-│                                                                │
-│  $ whoami                                                      │
-│  > software engineer · builder · curious systems thinker       │
-│                                                                │
-│  $ focus --now                                                 │
-│  > ASPID IoT · embedded software · cybersecurity · cloud       │
-│                                                                │
-│  $ motto                                                       │
-│  > raw ideas deserve a working prototype                       │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/terminal-card.svg" width="100%" alt="Basil Khowaja terminal profile" />
+</p>
 
 <div align="center">
 
@@ -37,7 +26,7 @@
 
 ## ⚡ Selected work
 
-<table width="100%">
+<table align="center" width="90%">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/basilk15/serial-monitor">

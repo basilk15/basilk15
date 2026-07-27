@@ -30,35 +30,62 @@ ASPID IoT · embedded software · cybersecurity · cloud
 
 ## ⚡ Selected work
 
-<div align="center">
-
-<a href="https://github.com/basilk15/serial-monitor">
-  <img src="https://img.shields.io/badge/BAUDTIDE-0B132B?style=for-the-badge&logo=tauri&logoColor=5BC0BE&labelColor=1C2541" alt="BaudTide" />
-</a>
-<br />
-<sub>Linux serial monitor & multi-port logger for ESP32, Arduino, and embedded development.</sub>
-
-<br /><br />
-
-<a href="https://github.com/basilk15/infratic">
-  <img src="https://img.shields.io/badge/INFRATIC-0B132B?style=for-the-badge&logo=cloudflare&logoColor=5BC0BE&labelColor=1C2541" alt="Infratic" />
-</a>
-<br />
-<sub>A featured project from my growing software portfolio.</sub>
-
-<br /><br />
-
-<a href="https://github.com/basilk15/Wpify">
-  <img src="https://img.shields.io/badge/WPIFY-0B132B?style=for-the-badge&labelColor=1C2541" alt="Wpify" />
-</a>
-<a href="https://github.com/basilk15/awsome">
-  <img src="https://img.shields.io/badge/AWSOME-0B132B?style=for-the-badge&labelColor=1C2541" alt="awsome" />
-</a>
-<a href="https://github.com/basilk15/quicon">
-  <img src="https://img.shields.io/badge/QUICON-0B132B?style=for-the-badge&labelColor=1C2541" alt="Quicon" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/basilk15/serial-monitor">
+        <img src="https://raw.githubusercontent.com/basilk15/serial-monitor/main/src-tauri/icons/icon.svg" width="92" alt="BaudTide logo" />
+        <br /><br />
+        <strong>BaudTide</strong>
+      </a>
+      <br />
+      <sub>Linux serial monitor & multi-port logger for embedded development.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/basilk15/infratic">
+        <img src="https://raw.githubusercontent.com/basilk15/infratic/main/newlogo-removebg-preview.png" width="210" alt="Infratic logo" />
+        <br /><br />
+        <strong>Infratic</strong>
+      </a>
+      <br />
+      <sub>Desktop infrastructure control for modern Linux operations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://github.com/basilk15/Wpify">
+        <img src="https://raw.githubusercontent.com/basilk15/Wpify/main/assets/wpify-logo-transparent.png" width="180" alt="Wpify logo" />
+        <br /><br />
+        <strong>Wpify</strong>
+      </a>
+      <br />
+      <sub>Local automation platform with WhatsApp workflows and scheduling.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://github.com/basilk15/awsome">
+        <img src="https://raw.githubusercontent.com/basilk15/awsome/main/docs/assets/awsome-logo-transparent.png" width="180" alt="awsome logo" />
+        <br /><br />
+        <strong>awsome</strong>
+      </a>
+      <br />
+      <sub>Interactive AWS infrastructure topology visualizer.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <a href="https://github.com/basilk15/quicon">
+        <img src="https://raw.githubusercontent.com/basilk15/quicon/main/assets/quicon-logo-removebg-preview.png" width="180" alt="Quicon logo" />
+        <br /><br />
+        <strong>Quicon</strong>
+      </a>
+      <br />
+      <sub>Local-first Linux document conversion workspace.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🧭 Now
 

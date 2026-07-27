@@ -12,6 +12,7 @@
 - [Wpify](https://github.com/basilk15/Wpify)
 - [awsome](https://github.com/basilk15/awsome)
 - [Quicon](https://github.com/basilk15/quicon)
+- [BaudTide](https://github.com/basilk15/serial-monitor)
 
 - 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
 

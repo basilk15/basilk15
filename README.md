@@ -14,12 +14,19 @@
 
 <br />
 
-```bash
-basil@github:~$ whoami
-Software engineer building practical tools and exploring secure, connected systems.
-
-basil@github:~$ current_focus
-ASPID IoT · embedded software · cybersecurity · cloud
+```text
+╭─ ● ● ● ── basil@github:~ ─────────────────────────────────────╮
+│                                                                │
+│  $ whoami                                                      │
+│  > software engineer · builder · curious systems thinker       │
+│                                                                │
+│  $ focus --now                                                 │
+│  > ASPID IoT · embedded software · cybersecurity · cloud       │
+│                                                                │
+│  $ motto                                                       │
+│  > raw ideas deserve a working prototype                       │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
@@ -30,7 +37,7 @@ ASPID IoT · embedded software · cybersecurity · cloud
 
 ## ⚡ Selected work
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/basilk15/serial-monitor">
@@ -77,7 +84,7 @@ ASPID IoT · embedded software · cybersecurity · cloud
     <td colspan="2" align="center" valign="top">
       <br />
       <a href="https://github.com/basilk15/quicon">
-        <img src="https://raw.githubusercontent.com/basilk15/quicon/main/assets/quicon-logo-removebg-preview.png" width="180" alt="Quicon logo" />
+        <img src="https://github.com/basilk15/quicon/blob/main/assets/quicon-logo-removebg-preview.png?raw=true" width="180" alt="Quicon logo" />
         <br /><br />
         <strong>Quicon</strong>
       </a>

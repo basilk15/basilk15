@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b132b,50:1c2541,100:5bc0be&text=BASIL%20KHOWAJA&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Cybersecurity%20Explorer%20%C2%B7%20Cloud%20Builder&descSize=17&descAlignY=59&animation=fadeIn" alt="Basil Khowaja" />
+<img width="100%" src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/profile-hero.svg" alt="Basil Khowaja — Software Engineer, Cybersecurity Explorer, Cloud Builder" />
 
 <div align="center">
 

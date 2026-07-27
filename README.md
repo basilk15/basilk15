@@ -1,65 +1,94 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b132b,50:1c2541,100:5bc0be&text=BASIL%20KHOWAJA&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Cybersecurity%20Explorer%20%C2%B7%20Cloud%20Builder&descSize=17&descAlignY=59&animation=fadeIn" alt="Basil Khowaja" />
+
 <div align="center">
-
-# Hi, I'm Basil Khowaja 👋
-
-### Software Engineer · Cybersecurity Enthusiast · Cloud Explorer
 
 <a href="https://github.com/basilk15">
-  <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Building%20ideas%20into%20software-0B132B?style=for-the-badge&logo=github&logoColor=5BC0BE" alt="Building ideas into software" />
 </a>
 <a href="https://github.com/basilk15?tab=followers">
-  <img src="https://img.shields.io/github/followers/basilk15?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/basilk15?style=for-the-badge&label=FOLLOW&color=1C2541&labelColor=0B132B" alt="GitHub followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=basilk15&style=for-the-badge&color=5BC0BE&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br />
+
+```bash
+basil@github:~$ whoami
+Software engineer building practical tools and exploring secure, connected systems.
+
+basil@github:~$ current_focus
+ASPID IoT · embedded software · cybersecurity · cloud
+```
+
+<div align="center">
+
+> *“Raw ideas deserve a working prototype.”*
+
+</div>
+
+## ⚡ Selected work
+
+<div align="center">
+
+<a href="https://github.com/basilk15/serial-monitor">
+  <img src="https://img.shields.io/badge/BAUDTIDE-0B132B?style=for-the-badge&logo=tauri&logoColor=5BC0BE&labelColor=1C2541" alt="BaudTide" />
+</a>
+<br />
+<sub>Linux serial monitor & multi-port logger for ESP32, Arduino, and embedded development.</sub>
+
+<br /><br />
+
+<a href="https://github.com/basilk15/infratic">
+  <img src="https://img.shields.io/badge/INFRATIC-0B132B?style=for-the-badge&logo=cloudflare&logoColor=5BC0BE&labelColor=1C2541" alt="Infratic" />
+</a>
+<br />
+<sub>A featured project from my growing software portfolio.</sub>
+
+<br /><br />
+
+<a href="https://github.com/basilk15/Wpify">
+  <img src="https://img.shields.io/badge/WPIFY-0B132B?style=for-the-badge&labelColor=1C2541" alt="Wpify" />
+</a>
+<a href="https://github.com/basilk15/awsome">
+  <img src="https://img.shields.io/badge/AWSOME-0B132B?style=for-the-badge&labelColor=1C2541" alt="awsome" />
+</a>
+<a href="https://github.com/basilk15/quicon">
+  <img src="https://img.shields.io/badge/QUICON-0B132B?style=for-the-badge&labelColor=1C2541" alt="Quicon" />
 </a>
 
 </div>
 
-## About me
+## 🧭 Now
 
-- 🔭 Building my final-year project, **[ASPID IoT](https://aspid-iot.vercel.app/)**.
-- 🚀 Featured work: **[Infratic](https://github.com/basilk15/infratic)**.
-- 🌱 Learning Wi‑Fi security through Hack The Box and building side projects.
-- 📝 I enjoy turning raw ideas into software and exploring network security.
-- 📫 Reach me at **[basilkhowaja123@gmail.com](mailto:basilkhowaja123@gmail.com)**.
+- 🔭 Building **[ASPID IoT](https://aspid-iot.vercel.app/)** for my final-year project.
+- 🌱 Learning Wi‑Fi security through Hack The Box and shipping side projects.
+- 🧠 Interested in software engineering, cloud platforms, embedded systems, and network security.
+- 📬 Open to connecting: **[basilkhowaja123@gmail.com](mailto:basilkhowaja123@gmail.com)**
 
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [Infratic](https://github.com/basilk15/infratic) | Featured project |
-| [BaudTide](https://github.com/basilk15/serial-monitor) | Linux serial monitor and multi-port logger for embedded development |
-| [Wpify](https://github.com/basilk15/Wpify) | Project showcase |
-| [awsome](https://github.com/basilk15/awsome) | Project showcase |
-| [Quicon](https://github.com/basilk15/quicon) | Project showcase |
-
-## Tech stack
+## 🛠️ Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,python,rust,aws,linux,mysql,matlab&perline=9" alt="React, TypeScript, JavaScript, Python, Rust, AWS, Linux, MySQL, and MATLAB" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,rust,aws,linux,mysql,matlab&theme=dark&perline=9" alt="React, TypeScript, JavaScript, Python, Rust, AWS, Linux, MySQL, and MATLAB" />
 
 </div>
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=basilk15&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Basil's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilk15&layout=compact&hide_border=true&theme=transparent" alt="Basil's most used languages" />
-
-</div>
-
-## Connect
+## 🤝 Find me around the web
 
 <div align="center">
 
 <a href="https://linkedin.com/in/basil-khowaja-073b9825b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=5BC0BE&labelColor=1C2541" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/bas1l_k">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0B132B?style=for-the-badge&logo=instagram&logoColor=5BC0BE&labelColor=1C2541" alt="Instagram" />
 </a>
 <a href="mailto:basilkhowaja123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=5BC0BE&labelColor=1C2541" alt="Email" />
 </a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0b132b,50:1c2541,100:5bc0be" alt="" />

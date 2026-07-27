@@ -1,33 +1,65 @@
-<h1 align="center">Hi 👋, I'm Basil</h1>
-<h3 align="center">A Software Engineer with passion for Cybersecurity and Cloud technologies .</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat" alt="basilk15" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on my **final year project, [ASPID IoT](https://aspid-iot.vercel.app/)**.
+# Hi, I'm Basil Khowaja 👋
 
-- 🚀 Featured project: **[Infratic](https://github.com/basilk15/infratic)**.
+### Software Engineer · Cybersecurity Enthusiast · Cloud Explorer
 
-<h3 align="left">Projects</h3>
+<a href="https://github.com/basilk15">
+  <img src="https://komarev.com/ghpvc/?username=basilk15&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</a>
+<a href="https://github.com/basilk15?tab=followers">
+  <img src="https://img.shields.io/github/followers/basilk15?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+</a>
 
-- [Infratic](https://github.com/basilk15/infratic)
-- [Wpify](https://github.com/basilk15/Wpify)
-- [awsome](https://github.com/basilk15/awsome)
-- [Quicon](https://github.com/basilk15/quicon)
-- [BaudTide](https://github.com/basilk15/serial-monitor)
+</div>
 
-- 🌱 I’m currently learning **WiFi penetration through HTB** and **app development through side projects**.
+## About me
 
-- 📝 I am interested in turning raw ideas into Softwares and Breaching the Networks.
+- 🔭 Building my final-year project, **[ASPID IoT](https://aspid-iot.vercel.app/)**.
+- 🚀 Featured work: **[Infratic](https://github.com/basilk15/infratic)**.
+- 🌱 Learning Wi‑Fi security through Hack The Box and building side projects.
+- 📝 I enjoy turning raw ideas into software and exploring network security.
+- 📫 Reach me at **[basilkhowaja123@gmail.com](mailto:basilkhowaja123@gmail.com)**.
 
-- 📫 How to reach me **basilkhowaja123@gmail.com**
+## Projects
 
-- ⚡ Fun fact **I can bend my neck 360 degrees.**
+| Project | What it is |
+| --- | --- |
+| [Infratic](https://github.com/basilk15/infratic) | Featured project |
+| [BaudTide](https://github.com/basilk15/serial-monitor) | Linux serial monitor and multi-port logger for embedded development |
+| [Wpify](https://github.com/basilk15/Wpify) | Project showcase |
+| [awsome](https://github.com/basilk15/awsome) | Project showcase |
+| [Quicon](https://github.com/basilk15/quicon) | Project showcase |
 
-<h3 align="left">Tools I'm pro at:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/basil-khowaja-073b9825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-khowaja-073b9825b" height="30" width="40" /></a>
-<a href="https://instagram.com/bas1l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bas1l_k" height="30" width="40" /></a>
-<a href="mailto:basilkhowaja123@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="basilkhowaja123@gmail.com" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,rust,aws,linux,mysql,matlab&perline=9" alt="React, TypeScript, JavaScript, Python, Rust, AWS, Linux, MySQL, and MATLAB" />
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=basilk15&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Basil's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilk15&layout=compact&hide_border=true&theme=transparent" alt="Basil's most used languages" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/basil-khowaja-073b9825b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/bas1l_k">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:basilkhowaja123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>

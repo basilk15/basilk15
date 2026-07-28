@@ -1,73 +1,136 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
-  <title id="title">Basil Khowaja — Software Engineer</title>
-  <desc id="desc">A dynamic developer profile banner with an animated systems grid, circuit paths, and code traces.</desc>
+  <title id="title">Build, secure, ship</title>
+  <desc id="desc">An animated systems banner with orbiting nodes, flowing packets, a scanning beam, and live network traces.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#060b18"/>
-      <stop offset=".48" stop-color="#101b35"/>
-      <stop offset="1" stop-color="#063d47"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".52" stop-color="#0b1430"/>
+      <stop offset="1" stop-color="#071b2b"/>
     </linearGradient>
-    <radialGradient id="halo" cx="78%" cy="38%" r="58%">
-      <stop offset="0" stop-color="#32d4c8" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#32d4c8" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#56f0df"/>
+      <stop offset=".52" stop-color="#55a7ff"/>
+      <stop offset="1" stop-color="#a778ff"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#56f0df" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#56f0df" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#56f0df" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#b9fff8"/>
+      <stop offset=".22" stop-color="#53e5d7"/>
+      <stop offset=".62" stop-color="#2d79dd" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#2d79dd" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none" stroke="#72e6db" stroke-opacity=".11" stroke-width="1"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#72e6db" stroke-opacity=".075"/>
     </pattern>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="20"/>
+    <filter id="wideGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="22"/>
     </filter>
   </defs>
 
-  <rect width="1400" height="420" rx="26" fill="url(#bg)"/>
-  <rect width="1400" height="420" rx="26" fill="url(#grid)"/>
-  <rect width="1400" height="420" rx="26" fill="url(#halo)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#grid)"/>
 
-  <g opacity=".7">
-    <circle cx="1120" cy="106" r="98" fill="#3fe0d3" fill-opacity=".15" filter="url(#soft)"/>
-    <circle cx="1245" cy="290" r="132" fill="#2c7cff" fill-opacity=".14" filter="url(#soft)"/>
+  <g opacity=".24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#72eadf">
+    <text x="30" y="42">0110 0010 1011 0100</text>
+    <text x="465" y="71">TLS_HANDSHAKE :: OK</text>
+    <text x="802" y="42">NODE_07 / ONLINE</text>
+    <text x="1118" y="388">PACKET_FLOW 98.7%</text>
+    <text x="640" y="388">DEPLOYMENT // ACTIVE</text>
+    <text x="110" y="388">0x7F 0x45 0x4C 0x46</text>
+    <animate attributeName="opacity" values=".12;.32;.12" dur="5s" repeatCount="indefinite"/>
   </g>
 
   <g fill="none" stroke-linecap="round">
-    <path d="M875 86H1010l38 38h128l58 58h124" stroke="#46e1d4" stroke-opacity=".45" stroke-width="2" stroke-dasharray="9 10">
-      <animate attributeName="stroke-dashoffset" from="0" to="-152" dur="8s" repeatCount="indefinite"/>
+    <path d="M0 96h190l38 38h160l46-46h204" stroke="#4ce3d5" stroke-opacity=".18" stroke-width="1.5" stroke-dasharray="8 13">
+      <animate attributeName="stroke-dashoffset" from="0" to="-168" dur="7s" repeatCount="indefinite"/>
     </path>
-    <path d="M780 322h120l44-44h174l44-44h196" stroke="#5ba8ff" stroke-opacity=".5" stroke-width="2" stroke-dasharray="8 12">
-      <animate attributeName="stroke-dashoffset" from="0" to="160" dur="10s" repeatCount="indefinite"/>
+    <path d="M0 330h260l42-42h210l58 58h220" stroke="#598fff" stroke-opacity=".2" stroke-width="1.5" stroke-dasharray="9 14">
+      <animate attributeName="stroke-dashoffset" from="0" to="184" dur="9s" repeatCount="indefinite"/>
     </path>
-    <path d="M1028 52v52l50 50v58l44 44" stroke="#79f0e4" stroke-opacity=".35" stroke-width="1.5"/>
-    <path d="M1318 146h-76l-34 34v64" stroke="#79f0e4" stroke-opacity=".35" stroke-width="1.5"/>
+    <path d="M732 122h118l42 42h88" stroke="#a778ff" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="7 11">
+      <animate attributeName="stroke-dashoffset" from="0" to="-144" dur="6s" repeatCount="indefinite"/>
+    </path>
   </g>
 
-  <g fill="#71e7db" filter="url(#glow)">
-    <circle cx="1010" cy="86" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="1122" cy="212" r="5"><animate attributeName="opacity" values="1;.22;1" dur="3.6s" repeatCount="indefinite"/></circle>
-    <circle cx="1234" cy="182" r="5"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="944" cy="278" r="5"><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  <rect x="-260" y="0" width="250" height="420" fill="url(#scan)" transform="skewX(-16)">
+    <animate attributeName="x" from="-260" to="1640" dur="6.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(1028 210)">
+    <circle r="178" fill="#3fdacc" fill-opacity=".035" stroke="#50dacd" stroke-opacity=".12"/>
+    <circle r="145" fill="none" stroke="#4ce3d5" stroke-opacity=".28" stroke-width="2" stroke-dasharray="7 14">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="111" fill="none" stroke="#5a96ff" stroke-opacity=".42" stroke-width="2" stroke-dasharray="34 12 5 16">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="76" fill="none" stroke="#a778ff" stroke-opacity=".48" stroke-width="2" stroke-dasharray="5 10">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="46" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="42;49;42" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-26 0L-13-23h26L26 0 13 23h-26z" fill="#07172a" stroke="#b5fff8" stroke-opacity=".75" stroke-width="2"/>
+    <circle r="7" fill="#b7fff8" filter="url(#glow)"/>
+    <path d="M-198 0H198M0-198V198" stroke="#6de9dd" stroke-opacity=".1"/>
+    <g fill="#64eee0" filter="url(#glow)">
+      <circle cx="0" cy="-145" r="5"><animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="111" cy="0" r="5"><animate attributeName="r" values="7;3;7" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="-54" cy="94" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <circle cx="145" cy="0" r="6" fill="#56f0df" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-111" cy="0" r="5" fill="#a778ff" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="11s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <g opacity=".36" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" fill="#9cece5">
-    <text x="875" y="205">status: building</text>
-    <text x="1040" y="243">system.online()</text>
-    <text x="1148" y="344">packet → secure</text>
-    <text x="896" y="120">0xBASIL</text>
+  <g fill="#77f3e7" filter="url(#glow)">
+    <circle r="4">
+      <animateMotion path="M18 96h172l38 38h160l46-46h204" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4">
+      <animateMotion path="M18 330h242l42-42h210l58 58h220" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#aa7fff">
+      <animateMotion path="M732 122h118l42 42h88" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <g transform="translate(86 90)">
-    <rect x="0" y="0" width="142" height="34" rx="17" fill="#45e2d5" fill-opacity=".15" stroke="#65e9df" stroke-opacity=".45"/>
-    <circle cx="20" cy="17" r="5" fill="#68eadf" filter="url(#glow)"/>
-    <text x="36" y="22" fill="#a8fff8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1.8">SYSTEMS</text>
-    <text x="0" y="111" fill="#f6fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="1">BASIL KHOWAJA</text>
-    <text x="3" y="156" fill="#b7cde5" font-family="Arial, Helvetica, sans-serif" font-size="24">Software Engineer <tspan fill="#58e4d8">·</tspan> Cybersecurity Explorer <tspan fill="#58e4d8">·</tspan> Cloud Builder</text>
-    <path d="M3 194h550" stroke="#65e9df" stroke-opacity=".45" stroke-width="2"/>
-    <text x="3" y="234" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">$</text>
-    <text x="28" y="234" fill="#d8e7f5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">building ideas into software_</text>
+  <g transform="translate(84 104)">
+    <g>
+      <rect width="202" height="36" rx="18" fill="#101d38" stroke="#58e8dc" stroke-opacity=".55"/>
+      <circle cx="21" cy="18" r="5" fill="#67efe2" filter="url(#glow)">
+        <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="38" y="23" fill="#aafbf4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">LIVE // SYSTEM_01</text>
+    </g>
+    <text x="0" y="110" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800" letter-spacing=".5">BUILD.</text>
+    <text x="196" y="110" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SECURE.</text>
+    <text x="441" y="110" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SHIP.</text>
+    <text x="2" y="154" fill="#a9bdd5" font-family="Arial, Helvetica, sans-serif" font-size="21">Ideas become resilient systems here.</text>
+    <path d="M2 183h570" stroke="url(#accent)" stroke-width="2" stroke-opacity=".7"/>
+    <g transform="translate(2 212)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
+      <rect width="132" height="34" rx="7" fill="#0d1930" stroke="#4ce3d5" stroke-opacity=".35"/>
+      <text x="18" y="22" fill="#72eee2">SOFTWARE</text>
+      <rect x="145" width="166" height="34" rx="7" fill="#0d1930" stroke="#5798ff" stroke-opacity=".4"/>
+      <text x="163" y="22" fill="#8ab7ff">CYBERSECURITY</text>
+      <rect x="324" width="100" height="34" rx="7" fill="#0d1930" stroke="#a778ff" stroke-opacity=".42"/>
+      <text x="348" y="22" fill="#c3a5ff">CLOUD</text>
+      <rect x="437" width="132" height="34" rx="7" fill="#0d1930" stroke="#4ce3d5" stroke-opacity=".35"/>
+      <text x="455" y="22" fill="#72eee2">EMBEDDED</text>
+    </g>
   </g>
 
-  <path d="M0 376C240 334 446 438 690 382s426-16 710-60v98H0z" fill="#07101f" fill-opacity=".54"/>
-  <rect x="1" y="1" width="1398" height="418" rx="25" fill="none" stroke="#8cf1e8" stroke-opacity=".16"/>
+  <path d="M0 389C210 354 384 414 606 384s421-31 794-2v38H0z" fill="#030712" fill-opacity=".68"/>
+  <rect x="1" y="1" width="1398" height="418" rx="27" fill="none" stroke="#8cf1e8" stroke-opacity=".17"/>
 </svg>

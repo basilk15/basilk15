@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/profile-hero.svg" alt="Basil Khowaja — Software Engineer, Cybersecurity Explorer, Cloud Builder" />
+<img width="100%" src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/profile-hero.svg?v=2" alt="Animated build, secure, and ship systems banner" />
 
 <div align="center">
 

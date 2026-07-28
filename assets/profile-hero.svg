@@ -107,19 +107,12 @@
   </g>
 
   <g transform="translate(84 104)">
-    <g>
-      <rect width="202" height="36" rx="18" fill="#101d38" stroke="#58e8dc" stroke-opacity=".55"/>
-      <circle cx="21" cy="18" r="5" fill="#67efe2" filter="url(#glow)">
-        <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
-      </circle>
-      <text x="38" y="23" fill="#aafbf4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">LIVE // SYSTEM_01</text>
-    </g>
-    <text x="0" y="110" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800" letter-spacing=".5">BUILD.</text>
-    <text x="196" y="110" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SECURE.</text>
-    <text x="441" y="110" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SHIP.</text>
-    <text x="2" y="154" fill="#a9bdd5" font-family="Arial, Helvetica, sans-serif" font-size="21">Ideas become resilient systems here.</text>
-    <path d="M2 183h570" stroke="url(#accent)" stroke-width="2" stroke-opacity=".7"/>
-    <g transform="translate(2 212)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
+    <text x="0" y="82" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800" letter-spacing=".5">BUILD.</text>
+    <text x="225" y="82" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SECURE.</text>
+    <text x="510" y="82" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SHIP.</text>
+    <text x="2" y="128" fill="#a9bdd5" font-family="Arial, Helvetica, sans-serif" font-size="21">Ideas become resilient systems here.</text>
+    <path d="M2 158h650" stroke="url(#accent)" stroke-width="2" stroke-opacity=".7"/>
+    <g transform="translate(2 187)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
       <rect width="132" height="34" rx="7" fill="#0d1930" stroke="#4ce3d5" stroke-opacity=".35"/>
       <text x="18" y="22" fill="#72eee2">SOFTWARE</text>
       <rect x="145" width="166" height="34" rx="7" fill="#0d1930" stroke="#5798ff" stroke-opacity=".4"/>

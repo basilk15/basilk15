@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/profile-hero.svg?v=2" alt="Animated build, secure, and ship systems banner" />
+<img width="100%" src="https://raw.githubusercontent.com/basilk15/basilk15/main/assets/profile-hero.svg?v=3" alt="Animated build, secure, and ship systems banner" />
 
 <div align="center">
 

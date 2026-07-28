@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Build, secure, ship</title>
+  <desc id="desc">An animated systems banner with orbiting nodes, flowing packets, a scanning beam, and live network traces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".52" stop-color="#0b1430"/>
+      <stop offset="1" stop-color="#071b2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#56f0df"/>
+      <stop offset=".52" stop-color="#55a7ff"/>
+      <stop offset="1" stop-color="#a778ff"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#56f0df" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#56f0df" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#56f0df" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#b9fff8"/>
+      <stop offset=".22" stop-color="#53e5d7"/>
+      <stop offset=".62" stop-color="#2d79dd" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#2d79dd" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#72e6db" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="wideGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#grid)"/>
+
+  <g opacity=".24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#72eadf">
+    <text x="30" y="42">0110 0010 1011 0100</text>
+    <text x="465" y="71">TLS_HANDSHAKE :: OK</text>
+    <text x="802" y="42">NODE_07 / ONLINE</text>
+    <text x="1118" y="388">PACKET_FLOW 98.7%</text>
+    <text x="640" y="388">DEPLOYMENT // ACTIVE</text>
+    <text x="110" y="388">0x7F 0x45 0x4C 0x46</text>
+    <animate attributeName="opacity" values=".12;.32;.12" dur="5s" repeatCount="indefinite"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 96h190l38 38h160l46-46h204" stroke="#4ce3d5" stroke-opacity=".18" stroke-width="1.5" stroke-dasharray="8 13">
+      <animate attributeName="stroke-dashoffset" from="0" to="-168" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 330h260l42-42h210l58 58h220" stroke="#598fff" stroke-opacity=".2" stroke-width="1.5" stroke-dasharray="9 14">
+      <animate attributeName="stroke-dashoffset" from="0" to="184" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M732 122h118l42 42h88" stroke="#a778ff" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="7 11">
+      <animate attributeName="stroke-dashoffset" from="0" to="-144" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <rect x="-260" y="0" width="250" height="420" fill="url(#scan)" transform="skewX(-16)">
+    <animate attributeName="x" from="-260" to="1640" dur="6.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(1028 210)">
+    <circle r="178" fill="#3fdacc" fill-opacity=".035" stroke="#50dacd" stroke-opacity=".12"/>
+    <circle r="145" fill="none" stroke="#4ce3d5" stroke-opacity=".28" stroke-width="2" stroke-dasharray="7 14">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="111" fill="none" stroke="#5a96ff" stroke-opacity=".42" stroke-width="2" stroke-dasharray="34 12 5 16">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="76" fill="none" stroke="#a778ff" stroke-opacity=".48" stroke-width="2" stroke-dasharray="5 10">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="46" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="42;49;42" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-26 0L-13-23h26L26 0 13 23h-26z" fill="#07172a" stroke="#b5fff8" stroke-opacity=".75" stroke-width="2"/>
+    <circle r="7" fill="#b7fff8" filter="url(#glow)"/>
+    <path d="M-198 0H198M0-198V198" stroke="#6de9dd" stroke-opacity=".1"/>
+    <g fill="#64eee0" filter="url(#glow)">
+      <circle cx="0" cy="-145" r="5"><animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="111" cy="0" r="5"><animate attributeName="r" values="7;3;7" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="-54" cy="94" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <circle cx="145" cy="0" r="6" fill="#56f0df" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-111" cy="0" r="5" fill="#a778ff" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#77f3e7" filter="url(#glow)">
+    <circle r="4">
+      <animateMotion path="M18 96h172l38 38h160l46-46h204" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4">
+      <animateMotion path="M18 330h242l42-42h210l58 58h220" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#aa7fff">
+      <animateMotion path="M732 122h118l42 42h88" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(84 104)">
+    <text x="0" y="82" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800" letter-spacing=".5">BUILD.</text>
+    <text x="225" y="82" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SECURE.</text>
+    <text x="510" y="82" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">SHIP.</text>
+    <text x="2" y="128" fill="#a9bdd5" font-family="Arial, Helvetica, sans-serif" font-size="21">Ideas become resilient systems here.</text>
+    <path d="M2 158h650" stroke="url(#accent)" stroke-width="2" stroke-opacity=".7"/>
+    <g transform="translate(2 187)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
+      <rect width="132" height="34" rx="7" fill="#0d1930" stroke="#4ce3d5" stroke-opacity=".35"/>
+      <text x="18" y="22" fill="#72eee2">SOFTWARE</text>
+      <rect x="145" width="166" height="34" rx="7" fill="#0d1930" stroke="#5798ff" stroke-opacity=".4"/>
+      <text x="163" y="22" fill="#8ab7ff">CYBERSECURITY</text>
+      <rect x="324" width="100" height="34" rx="7" fill="#0d1930" stroke="#a778ff" stroke-opacity=".42"/>
+      <text x="348" y="22" fill="#c3a5ff">CLOUD</text>
+      <rect x="437" width="132" height="34" rx="7" fill="#0d1930" stroke="#4ce3d5" stroke-opacity=".35"/>
+      <text x="455" y="22" fill="#72eee2">EMBEDDED</text>
+    </g>
+  </g>
+
+  <path d="M0 389C210 354 384 414 606 384s421-31 794-2v38H0z" fill="#030712" fill-opacity=".68"/>
+  <rect x="1" y="1" width="1398" height="418" rx="27" fill="none" stroke="#8cf1e8" stroke-opacity=".17"/>
+</svg>

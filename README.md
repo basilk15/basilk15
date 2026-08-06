@@ -83,7 +83,7 @@
 
 ## 🧭 Now
 
-- 🔭 Building **[ASPID IoT](https://aspid-iot.vercel.app/)** for my final-year project.
+- 🔭 Building **[ASPID IoT](https://aspid-iot.vercel.app/)** which was my final year project, won the best FYP award, now turning into an commercial product, SOON!!.
 - 🌱 Learning Wi‑Fi security through Hack The Box and shipping side projects.
 - 🧠 Interested in software engineering, cloud platforms, embedded systems, and network security.
 - 📬 Open to connecting: **[basilkhowaja123@gmail.com](mailto:basilkhowaja123@gmail.com)**

@@ -67,18 +67,7 @@
       <sub>Interactive AWS infrastructure topology visualizer.</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <a href="https://github.com/basilk15/quicon">
-        <img src="https://github.com/basilk15/quicon/blob/main/assets/quicon-logo-removebg-preview.png?raw=true" width="180" alt="Quicon logo" />
-        <br /><br />
-        <strong>Quicon</strong>
-      </a>
-      <br />
-      <sub>Local-first Linux document conversion workspace.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
+    <td colspan="2" align="center" valign="top">
       <br />
       <a href="https://github.com/basilk15/Uchat">
         <img src="https://raw.githubusercontent.com/basilk15/Uchat/main/assets/uchat-icon.svg" width="120" alt="Uchat logo" />
